@@ -34,3 +34,4 @@ if tot == 2:
     print('Isso torna ele um número primo!')
 else:
     print('E por isso ele não se torna um numero primo!')
+    
